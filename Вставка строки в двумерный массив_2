@@ -1,0 +1,7 @@
+int main()
+{
+  int n, m, k;
+  int **a = creat(n, m);
+int n2 = 2 * n;
+print(a, n, m)
+cout << "k = ";
