@@ -1,0 +1,20 @@
+cin >> k;
+if (k < 0 || k > n - 1 || n + 1 >n2)
+    cout << "error";
+else
+{
+    for (int i = n; i > k; --i)
+        a[i] = a[i - 1];
+        ++n;
+        a[K] =
+            new int[m];
+        for (int j = 0; j < m; ++j)
+        {
+            cout << "a[ << k << "][" << j << "] = ";
+            cin >> a[k][j];
+        }
+        print (a, n, m);
+    }
+    deleteMas(a, n);
+    return 0;
+}
